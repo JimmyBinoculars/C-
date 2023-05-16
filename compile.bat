@@ -1,0 +1,1 @@
+csc /target:exe /out:output.exe main.cs

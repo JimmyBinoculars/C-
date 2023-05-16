@@ -6,7 +6,7 @@ namespace mySpace
     {
         static void Main()
         {
-            Console.Writeline("Hello world!")
+            Console.WriteLine("Hello world!");
         }
     }
 }
